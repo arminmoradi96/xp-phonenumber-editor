@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.venv/
+*.log
+PHONE.INF
+PHONE.IN_
+phone.inf
+phone.in_
